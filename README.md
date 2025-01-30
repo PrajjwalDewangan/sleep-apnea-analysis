@@ -30,5 +30,6 @@ Nadam optimizer delivers the best performance in OSA detection, achieving an imp
 The hybrid CNN-LSTM model outperforms standalone models, reaching a peak accuracy of 95.38%.
 The LSTM model, particularly when combined with the sigmoid activation function, achieves a consistent accuracy of 93.80%.
 Our findings emphasize the importance of proper model selection and optimization techniques for enhancing OSA detection accuracy.
-Impact and Future Scope
+
+## Impact and Future Scope
 The results of this study contribute to the advancement of more accurate and practical diagnostic tools for OSA detection. By improving early diagnosis, this research has the potential to enhance patient outcomes, treatment strategies, and overall quality of life for individuals suffering from sleep apnea.
