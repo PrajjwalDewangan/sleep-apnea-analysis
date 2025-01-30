@@ -7,6 +7,16 @@ Obstructive Sleep Apnea (OSA) is a prevalent sleep disorder characterized by rep
 
 In this research study, we explore the potential of deep learning techniques for OSA detection, leveraging advanced neural network architectures. Our primary focus is on Convolutional Neural Networks (CNNs), Long Short-Term Memory (LSTM) networks, and a hybrid model that combines the strengths of both approaches. We also analyze how different optimization strategies and activation functions impact the accuracy of OSA detection.
 
+# Architecture
+### CNN
+![Image](https://github.com/user-attachments/assets/1663a6fd-2d9c-4a7f-a4fa-422b586baebe)
+
+### LSTM
+![Image](https://github.com/user-attachments/assets/a7444ec0-5486-415e-8ca4-76bd5995e162)
+
+### Hybrid Model
+![Image](https://github.com/user-attachments/assets/bec233ea-a878-4c44-9d9a-410d26f75a43)
+
 ## Key Contributions
 Deep Learning-Based OSA Detection: We employ CNNs, LSTMs, and a hybrid model for feature extraction and classification of OSA.
 Optimization Strategies: We experiment with various optimizers, including Adam, RMSprop, and Nadam, to identify the most effective one.
