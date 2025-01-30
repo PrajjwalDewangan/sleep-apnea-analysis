@@ -9,13 +9,13 @@ In this research study, we explore the potential of deep learning techniques for
 
 # Architecture
 ### CNN
-![Image](https://github.com/user-attachments/assets/1663a6fd-2d9c-4a7f-a4fa-422b586baebe)
+![Image](https://github.com/PrajjwalDewangan/sleep-apnea-analysis/blob/main/images/CNN%20Architecture.jpg)
 
 ### LSTM
-![Image](https://github.com/user-attachments/assets/a7444ec0-5486-415e-8ca4-76bd5995e162)
+![Image](https://github.com/PrajjwalDewangan/sleep-apnea-analysis/blob/main/images/LSTM%20Architecture.jpg)
 
 ### Hybrid Model
-![Image](https://github.com/user-attachments/assets/bec233ea-a878-4c44-9d9a-410d26f75a43)
+![Image](https://github.com/PrajjwalDewangan/sleep-apnea-analysis/blob/main/images/Hybrid%20Architecture.jpg)
 
 ## Key Contributions
 Deep Learning-Based OSA Detection: We employ CNNs, LSTMs, and a hybrid model for feature extraction and classification of OSA.
