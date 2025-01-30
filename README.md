@@ -33,3 +33,11 @@ Our findings emphasize the importance of proper model selection and optimization
 
 ## Impact and Future Scope
 The results of this study contribute to the advancement of more accurate and practical diagnostic tools for OSA detection. By improving early diagnosis, this research has the potential to enhance patient outcomes, treatment strategies, and overall quality of life for individuals suffering from sleep apnea.
+
+## 📄 Publication  
+This project is based on our published research paper:  
+
+**Title:** Obstructive Sleep Apnea Syndrome Identification Using CNN-LSTM Hybrid Model  
+📌 **Authors:** Prasanna Kulkarni, Deepali Vora,Prajjwal Dewangan,Rohi Bindal,Nilima Zade,Anshita Singh, Aditya Gupte  
+📖 **Journal:** Journal of Electrical Systems, Volume 20, Issue 2, 2024  
+🔗 **DOI/Link:** [Paper Link](https://doi.org/10.52783/jes.2013)
